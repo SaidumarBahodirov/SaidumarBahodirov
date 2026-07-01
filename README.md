@@ -2,6 +2,10 @@
 <h3 align="center">Software Developer | Robotics & Electronics Enthusiast</h3>
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/heA9KuvviGwAAAAC/tony-stark-iron-man.gif" width="400" alt="Tony Stark Iron Man" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;C%2B%2B+Developer;Frontend+Developer;Robotics+Enthusiast;Always+Learning+New+Things" />
 </p>
 
